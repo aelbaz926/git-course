@@ -1,3 +1,3 @@
 def calculate_total(price, tax):
-    # Calculate final price
+    print(f"Processing: {price}")
     return price + tax
